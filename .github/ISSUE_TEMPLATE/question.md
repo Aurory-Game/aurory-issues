@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Do you have a question about Aurory? Please visit [our discord server](https://discord.com/invite/aurory)
+about: Do you have a question about Aurory? Please visit our discord server at https://discord.com/invite/aurory
 
 ---
 
