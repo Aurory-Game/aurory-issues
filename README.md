@@ -10,6 +10,8 @@ Just have a question? Please ask it on [our discord](https://discord.com/invite/
 1. Please be respectful and polite as you interact with the Aurory team and community through GitHub issues. You may review our [community guidelines](https://aurory.io/code-of-conduct/) for more specific guidance about what is allowed and prohibited.
 1. Please be constructive and informative when you open an issue so that we are able to quickly identify and resolve the issue.
 1. Please do not request updates on progress or deliver dates. Progress and updates will be added to the issue and you may optionally view upcoming features using the project view.
+1. All requests that require personnal and sensitive information (ex: your public wallet key, IP address) should be submitted on [our discord](https://discord.com/invite/aurory)
+1. Please post a single problem per issue. If an issue has multiple problems listed in it, we'll address what appears to be the most important topic then you will be asked issues to be created for every other problems. This is not a comment on the importance of those problems but a way to keep each issue organized and prioritized.
 
 ## Security disclosures
 If you find a vulnerability or other security related bug, please send a note to security@aurory.io before opening a GitHub issue. This will allow us to assess the disclosure and prepare a fix prior to a public disclosure. 
