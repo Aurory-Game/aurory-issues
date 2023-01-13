@@ -22,8 +22,11 @@ Steps to reproduce the behavior:
 ### Expected behavior
 A clear and concise description of what you expected to happen.
 
-### Screenshots
-If applicable, add screenshots to help explain your problem.
+### Screenshots / Videos capture
+If applicable, add screenshots or a video capture to help explain your problem.
+
+### Identifiers
+If applicable, add session ID or battle ID.
 
 ### Platform
 (Please complete the following information)
