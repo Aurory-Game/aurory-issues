@@ -1,0 +1,63 @@
+name: Feature Request
+description: Suggest a new feature for Aurory
+title: "[Feature Request]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. Player Name, Discord ID, email
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: A clear and concise description of what the problem is.
+      placeholder: |
+        I'm always frustrated when [...]
+      value: |
+        I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      description: A clear and concise description of what you want to happen.
+      placeholder: |
+        A potential solution could be [...]
+      value: |
+        A potential solution could be [...]
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives/workarounds
+      description: A clear and concise description of any alternative solutions or workarounds you've considered.
+      placeholder: |
+        An alternative solution could be [...]
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://aurory.io/code-of-conduct/)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

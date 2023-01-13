@@ -1,0 +1,33 @@
+name: General Issue
+description: Use this for a general comment or issue you've encountered
+title: "[General Issue]: "
+labels: ["question", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue!
+        Is this a question about how to use Aurory? Please consider posting on [our discord server](https://discord.com/invite/aurory) instead.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. Player Name, Discord ID, email
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a description of the problem you have or just leave us a general comment here.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://aurory.io/code-of-conduct/)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
