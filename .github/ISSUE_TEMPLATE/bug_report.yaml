@@ -63,8 +63,9 @@ body:
     attributes:
       label: Screenshots / Videos capture / Attachments
       placeholder: |
-        Add in-game screenshot and screenshot of the console (F12) if applicable.
-        If applicable, make sure that you add a screenshot with the session ID or battle ID.
+        If applicable:
+         - add in-game screenshot and screenshot of the console (F12).
+         - make sure to add a screenshot with the session ID and/or battle ID.
   - type: checkboxes
     id: terms
     attributes:
