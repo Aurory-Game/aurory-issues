@@ -77,7 +77,7 @@ body:
     attributes:
       label: Screenshots / Videos capture / Attachments
       placeholder: |
-        Add in-game screenshot / video of issue which includes the Session and/or Battle ID.
+        Add an in-game screenshot / video of the issue which includes the Session and/or Battle ID (located in the lower left corner of the screen).
         If applicable: Add a screenshot of the console (Tap F12 > Click "Console").
   - type: checkboxes
     id: terms
