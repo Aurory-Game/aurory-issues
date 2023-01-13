@@ -1,9 +1,9 @@
 # Aurory Issues
-We hope you love playing Aurory, but in case you encounter a bug or an issue with the game or website please do let us know.
+We hope you love playing Aurory, but in case you want to report a bug, or have feedback about the game or website please do let us know.
 
 ## How to use the Aurory Issue Tracker
 
-Click on the **Issues** tab or click right [here](https://github.com/Aurory-Game/aurory-issues/issues) to search and find out if the bug you want to report has been already posted before.
+Click on the **Issues** tab or click right [here](https://github.com/Aurory-Game/aurory-issues/issues) to search and find out if the bug or feedback you want to report has been already posted before.
 
 If this is the case - **please, do not post duplicates**. Instead, just **upvote with "👍" reaction** the original issue and comment extra details if any.
 
