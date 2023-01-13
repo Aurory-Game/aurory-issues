@@ -1,7 +1,13 @@
 # Aurory Issues
-We hope you love playing Aurory, but in case you encounter a bug or an issue with the software please do let us know.
+We hope you love playing Aurory, but in case you encounter a bug or an issue with the game or website please do let us know.
 
-Click on the **Issues** tab or click right [here](https://github.com/Aurory-Game/aurory-issues/issues/new/choose) to open an issue.
+## How to use the Aurory Issue Tracker
+
+Click on the **Issues** tab or click right [here](https://github.com/Aurory-Game/aurory-issues/issues) to search and find out if the bug you want to report has been already posted before.
+
+If this is the case - **please, do not post duplicates**. Instead, just **upvote with "👍" reaction** the original issue and comment extra details if any.
+
+If you do not find an issue for the bug you want to report, you can open a new issue in the **Issues** tab above or click right [here](https://github.com/Aurory-Game/aurory-issues/issues/new/choose) to open an issue.
 
 Just have a question? Please ask it on [our discord](https://discord.com/invite/aurory) so the entire community can benefit. 
 - https://discord.com/invite/aurory
