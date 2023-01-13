@@ -6,7 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        ### ❗Before making a post.
+        * First, you should use Search in issues to find out if the bug you want to report has been already posted before.
+          If this is the case - **please, do not post duplicates**.
+          Instead, just **upvote with "👍" reaction** the original issue and comment extra details if any.
+        * And only then, if your issue was not posted before - you can start typing your post using fields below and title above.
+          Try to provide as much information as possible about the bug.
+        * Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
