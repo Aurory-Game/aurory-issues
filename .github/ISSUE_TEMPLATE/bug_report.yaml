@@ -64,7 +64,7 @@ body:
       label: Which wallet are you using?
       multiple: true
       options:
-        - None
+        - No wallet
         - Phantom
         - Solflare
         - Sollet
