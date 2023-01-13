@@ -22,7 +22,6 @@ body:
       description: A clear and concise description of what the bug is.
       placeholder: |
         Tell us what you see!
-        If applicable, add session ID or battle ID.
       value: "A bug happened!"
     validations:
       required: true
@@ -64,7 +63,8 @@ body:
     attributes:
       label: Screenshots / Videos capture / Attachments
       placeholder: |
-        Add your attachments here by drag&drop, selecting or pasting them.
+        Add in-game screenshot and screenshot of the console (F12) if applicable.
+        If applicable, make sure that you add a screenshot with the session ID or battle ID.
   - type: checkboxes
     id: terms
     attributes:
