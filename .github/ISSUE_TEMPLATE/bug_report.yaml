@@ -85,6 +85,7 @@ body:
       placeholder: |
         Add an in-game screenshot / video of the issue which includes the Session and/or Battle ID (located in the lower left corner of the screen).
         If applicable: Add a screenshot of the console (Tap F12 > Click "Console").
+        Maximum file size for images/video is 10MB. If you want to upload a bigger video, please consider uploading to Youtube/Twitch/Google Drive.
   - type: checkboxes
     id: terms
     attributes:
